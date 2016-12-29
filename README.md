@@ -1,2 +1,1 @@
-# the-first-test
-one or first
+use for load labview or c
